@@ -485,7 +485,7 @@
         "check": "หลุมฝังศพทองคำ",
         "rewards": [
           {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp",
             "label": "หินพลังวิญญาณหยาบ (เวล 6 หรือ 7)"
           }
         ],
@@ -517,11 +517,11 @@
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
-            "label": "Magic Sapphire Ring (เลือกได้ 1 อย่าง)"
+            "label": "Magic Sapphire Ring "
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/TopazRing.webp",
-            "label": "Magic Topaz Ring (เลือกได้ 1 อย่าง)"
+            "label": "Magic Topaz Ring "
           }
         ],
         "leagueRewards": {
@@ -548,11 +548,11 @@
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionSerpentHalf.webp",
-            "label": "(เลือกได้ 1 อย่าง) เพิ่มชาร์จของขลังที่ได้รับ 30% ช่องของขลัง +1 ช่อง"
+            "label": "เพิ่มชาร์จของขลังที่ได้รับ 30% ช่องของขลัง +1 ช่อง"
           },
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionHyenaHalf.webp",
-            "label": "(เลือกได้ 1 อย่าง) เพิ่มระยะเวลาส่งผลของของขลัง 30% ช่องของขลัง +1 ช่อง"
+            "label": " เพิ่มระยะเวลาส่งผลของของขลัง 30% ช่องของขลัง +1 ช่อง"
           }
         ],
         "leagueRewards": {
@@ -620,7 +620,8 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -659,7 +660,7 @@
         "check": "พี่น้องการูคาน",
         "rewards": [
           {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SacredWaterVialQuestItem.webp",
             "label": "ค่าต้านทาน สายฟ้า +10%",
             "color": "#8280ff"
           }
@@ -674,11 +675,11 @@
     "id": 3,
     "title": "Act 3",
     "subtitle": "Keth / Utzaal",
-    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
+    "note": "",
     "rows": [
       {
-        "area": "Sandswept Marsh",
-        "check": "Foul Ritual",
+        "area": "บึงพัดทราย",
+        "check": "ฆ่าบอส - รูทเดรดจ์",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -690,12 +691,13 @@
         }
       },
       {
-        "area": "Sandswept Marsh",
-        "check": "Orok Campfire",
+        "area": "บึงพัดทราย",
+        "check": "ค่ายกองไฟโอร็อก",
         "rewards": [
           {
-            "img": "",
-            "label": "Lesser Jeweller's Orb"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp",
+            "label": "Jeweller's Orb ชั้นต่ำ",
+            "color": "#e0861f"
           }
         ],
         "leagueRewards": {
@@ -703,12 +705,13 @@
         }
       },
       {
-        "area": "Jungle Ruins",
-        "check": "BOSS - Mighty Silverfist",
+        "area": "ซากปรักหักพังป่าดงดิบ",
+        "check": "ฆ่าบอส - ลิงซิลเวอร์ฟิสต์ผู้ยิ่งใหญ่",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -716,12 +719,12 @@
         }
       },
       {
-        "area": "Jungle Ruins",
-        "check": "Jungle Grave",
+        "area": "ซากปรักหักพังป่าดงดิบ",
+        "check": "หลุมศพป่าดงดิบ",
         "rewards": [
           {
-            "img": "",
-            "label": "Rare Rawhide Belt or Linen Belt"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Belts/Basetypes/Belt01.webp",
+            "label": "เข็มขัดแรร์"
           }
         ],
         "leagueRewards": {
@@ -729,23 +732,23 @@
         }
       },
       {
-        "area": "The Venom Crypts",
-        "check": "Corpse Snake Venom",
+        "area": "สุสานอสรพิษ",
+        "check": "เก็บยาอสรพิษ ส่ง NPC",
         "rewards": [
           {
-            "img": "",
-            "label": "+25% increased Stun Threshold"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotionBlue.webp",
+            "label": "เพิ่มความยากในการติดสถานะ สตัน 25% (เลือก 1 อย่าง)"
           },
           {
-            "img": "",
-            "label": "+30% increased Elemental Ailment Threshold"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotionRed.webp",
+            "label": "เพิ่มความยากในการติด สถานะเจ็บป่วยธาตุ 30%"
           },
           {
-            "img": "",
-            "label": "+25% increased Mana Regeneration Rate"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotion.webp",
+            "label": "เพิ่มความเร็วในการ ฟื้นฟูมานา 25%"
           },
           {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
             "label": "Artificer's Orb"
           }
         ],
@@ -754,12 +757,13 @@
         }
       },
       {
-        "area": "The Azak Bog",
-        "check": "BOSS - Ignagduk, the Bog Witch",
+        "area": "พรุอาซัค",
+        "check": "ฆ่าบอส - อิ๊กนักดุ๊ก แม่มดพรุ ",
         "rewards": [
           {
-            "img": "",
-            "label": "+30 to Maximum Spirit"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_02a.webp",
+            "label": "พลังวิญญาณ +30",
+            "color": "#e0861f"
           }
         ],
         "leagueRewards": {
@@ -767,12 +771,13 @@
         }
       },
       {
-        "area": "Chimeral Wetlands",
-        "check": "BOSS - Xyclucian, the Chimera",
+        "area": "ป่าชุ่มน้ำไคมีรัล",
+        "check": "ฆ่าบอส - ไซคลูเซียน ไคมีรา",
         "rewards": [
           {
-            "img": "",
-            "label": "Chimeral Inscribed Ultimatum"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/UltimatumTrialQuestItem.webp",
+            "label": "คำขาดจารึกไคมีรัล",
+            "color": "#00f028"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -784,12 +789,13 @@
         }
       },
       {
-        "area": "Jiquani's Machinarium",
-        "check": "BOSS - Blackjaw, the Remnant",
+        "area": "สถานจักรกลฮิคัวนี",
+        "check": "ฆ่าบอส - แบล็คจอว์ ผู้เหลือรอด",
         "rewards": [
           {
-            "img": "",
-            "label": "+10% to Fire Resistance"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp",
+            "label": "ค่าต้านทาน ไฟ +10%",
+            "color": "#f74a4a"
           }
         ],
         "leagueRewards": {
@@ -797,8 +803,8 @@
         }
       },
       {
-        "area": "Jiquani's Sanctum",
-        "check": "Grand Soul Core Nexus",
+        "area": "สถานพำนักฮิคัวนี",
+        "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
         "rewards": [
           {
             "img": "",
@@ -810,12 +816,12 @@
         }
       },
       {
-        "area": "Jiquani's Sanctum",
-        "check": "Paquate's Mechanism",
+        "area": "สถานพำนักฮิคัวนี",
+        "check": "กลไกของปะควาเท",
         "rewards": [
           {
-            "img": "",
-            "label": "Corrupt a single item like a Vaal Orb"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/LipDisk.webp",
+            "label": "แท่น VAAL ไอเทม"
           }
         ],
         "leagueRewards": {
@@ -832,7 +838,8 @@
           },
           {
             "img": "",
-            "label": "Reforging Bench"
+            "label": "ปลดล็อค - โต๊ะหลอม",
+            "color": "#f6fa00"
           },
           {
             "img": "",
@@ -844,8 +851,8 @@
         }
       },
       {
-        "area": "Temple of Kopec",
-        "check": "BOSS - Ketzuli, High Priest of the Sun",
+        "area": "วิหารโคเปค",
+        "check": "ฆ่าบอส - เค็ทซูลี นักบวชระดับสูงแห่งตะวัน",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -857,12 +864,13 @@
         }
       },
       {
-        "area": "Utzaal",
-        "check": "BOSS - Viper Napuatzi",
+        "area": "อุทซาล",
+        "check": "ฆ่าบอส - อสรพิษนาปวดซี",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "หินเสริมหยาบ (เลเวล 2)"
+            "label": "หินเสริมหยาบ (เลเวล 3)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -870,8 +878,8 @@
         }
       },
       {
-        "area": "Utzaal",
-        "check": "Perculiar Fortunes",
+        "area": "อุทซาล",
+        "check": "ทรัพย์สมบัติน่าฉงน",
         "rewards": [
           {
             "img": "",
