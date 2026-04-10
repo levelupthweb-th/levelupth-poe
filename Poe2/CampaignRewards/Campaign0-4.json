@@ -18,30 +18,13 @@
         "leagueRewards": {}
       },
       {
-        "area": "Clearfell",
-        "check": "BOSS - Beira of the Rotten Pack",
+        "area": "เคลียร์เฟล",
+        "check": "สังหารเบย์ร่าแห่งฝูงหมาป่าสามานย์",
         "rewards": [
           {
-            "img": "https://raw.githubusercontent.com/levelupthweb-wq/levelupth-poe/main/Poe2/Art/2DItems/Belts/Uniques/Headhunter.webp",
-            "label": "+10% Cold Resistance"
-          }
-        ],
-        "leagueRewards": {
-          "0-4": [
-            {
-              "img": "",
-              "label": "100000 Gold"
-            }
-          ]
-        }
-      },
-      {
-        "area": "Mysterious Campsite",
-        "check": "Chest",
-        "rewards": [
-          {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 1)"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CroneWolfHead.webp",
+            "label": "ค่าต้านทาน น้ำแข็ง +10%",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -49,20 +32,50 @@
         }
       },
       {
-        "area": "Mud Burrow",
-        "check": "BOSS - The Devourer",
+        "area": "เคลียร์เฟล",
+        "check": "ค่ายปริศนา",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 1)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "text": "วิ่งหาค่ายปริศนา แล้วเปิดหีบ"
+        }
+      },
+      {
+        "area": "โพรงโคลน",
+        "check": "ฆ่าตัวสวาปาม",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 2)"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyCoin.webp",
+            "label": "100 ทอง"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "ป่าเกรลวูด",
+        "check": "ฆ่าบอส ภูติไม้หนาม",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
             "label": "Uncut Skill Gem (Level 2)"
-          },
-          {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
-          },
-          {
-            "img": "",
-            "label": "100 Gold"
           }
         ],
         "leagueRewards": {
@@ -70,29 +83,21 @@
         }
       },
       {
-        "area": "The Grelwood",
-        "check": "BOSS - The Brambleghast",
+        "area": "ป่าเกรลวูด",
+        "check": "หากระท่อมแม่มด / ฆ่าแม่มดผู้ถูกลืม",
         "rewards": [
           {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 2)"
-          }
-        ],
-        "leagueRewards": {
-          "0-4": []
-        }
-      },
-      {
-        "area": "Aregane's Hut",
-        "check": "Slay Areagne",
-        "rewards": [
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Flasks/Basetypes/FlaskLife02.webp",
+            "label": "Medium Life Flask"
+          },
           {
-            "img": "",
-            "label": "Medium Life and Medium Mana Flask"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Flasks/Basetypes/FlaskMana02.webp",
+            "label": "Medium Mana "
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
