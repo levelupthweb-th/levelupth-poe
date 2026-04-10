@@ -75,7 +75,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 2)"
+            "label": "หินสกิลหยาบ (เลเวล 2)"
           }
         ],
         "leagueRewards": {
@@ -96,7 +96,7 @@
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)",
+            "label": "หินเสริมหยาบ (เลเวล 1)",
             "color": "#00e2e6"
           }
         ],
@@ -105,12 +105,12 @@
         }
       },
       {
-        "area": "The Red Vale",
-        "check": "BOSS - The Rust King",
+        "area": "ห้วยสีชาด",
+        "check": "ฆ่าบอส - กษัตริย์สนิม",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 3)"
+            "label": "หินสกิลหยาบ (เลเวล 3)"
           }
         ],
         "leagueRewards": {
@@ -118,12 +118,13 @@
         }
       },
       {
-        "area": "The Grim Tangle",
-        "check": "BOSS - The Rotten Druid",
+        "area": "คูน้ำเคี้ยวคด",
+        "check": "ฆ่าบอส - ดรูอิดกายเปื่อย",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -131,24 +132,11 @@
         }
       },
       {
-        "area": "Cemetery of the Eternals",
-        "check": "BOSS - Lachlann of Endless Lament",
+        "area": "สุสานนิรันดร์ชน",
+        "check": "หาซากโบราณ โรงศพ",
         "rewards": [
           {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 3)"
-          }
-        ],
-        "leagueRewards": {
-          "0-4": []
-        }
-      },
-      {
-        "area": "Cemetery of the Eternals",
-        "check": "Sarcophagus beside Grieving Epitaph",
-        "rewards": [
-          {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/IronRing.webp",
             "label": "Normal Rarity Ring"
           }
         ],
@@ -157,38 +145,12 @@
         }
       },
       {
-        "area": "Tomb of the Consort",
-        "check": "Haunted Treasure (Slay the Eternal Knight)",
-        "rewards": [
-          {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
-          }
-        ],
-        "leagueRewards": {
-          "0-4": []
-        }
-      },
-      {
-        "area": "Hunting Grounds",
-        "check": "BOSS - The Crowbell",
-        "rewards": [
-          {
-            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
-          }
-        ],
-        "leagueRewards": {
-          "0-4": []
-        }
-      },
-      {
-        "area": "Hunting Grounds",
-        "check": "Complete Ritual Altar",
+        "area": "สุสานนิรันดร์ชน",
+        "check": "ฆ่าบอส - ลาคแลนน์ ผู้ไม่สิ้นโศกา",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 4)"
+            "label": "Uncut Skill Gem (Level 3)"
           }
         ],
         "leagueRewards": {
@@ -196,12 +158,66 @@
         }
       },
       {
-        "area": "Hunting Grounds",
-        "check": "Dryadic Ritual",
+        "area": "หลุมฝังศพภริยา",
+        "check": "หา ขุมทรัพย์ที่ถูกจู่โจม (หีบ)",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "อนุสาวรีย์บรรจุศพข้าหลวง",
+        "check": "หาสมบัติที่ถูกลืม (หีบ)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "แดนนักล่า",
+        "check": "ฆ่าบอส -  โครว์เบลล์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "แดนนักล่า",
+        "check": "แท่นพิธีกรรม",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (Level 4)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "แดนนักล่า",
+        "check": "ฆ่า - พิธีนางไม้",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
