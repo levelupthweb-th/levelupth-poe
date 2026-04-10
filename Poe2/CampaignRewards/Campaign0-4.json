@@ -42,9 +42,6 @@
         ],
         "leagueRewards": {
           "0-4": []
-        },
-        "preview": {
-          "text": "วิ่งหาค่ายปริศนา แล้วเปิดหีบ"
         }
       },
       {
@@ -150,7 +147,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 3)"
+            "label": "หินเสริมหยาบ (เลเวล 3)"
           }
         ],
         "leagueRewards": {
@@ -364,12 +361,12 @@
     "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
     "rows": [
       {
-        "area": "Vastiri Outskirts",
-        "check": "BOSS - Rathbreaker",
+        "area": "ชายแดนวาสตีรี",
+        "check": "ฆ่าบอส - แรธเบรกเกอร์",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 6)"
+            "label": "หินเสริมหยาบ (เลเวล 6)"
           }
         ],
         "leagueRewards": {
@@ -377,11 +374,25 @@
         }
       },
       {
-        "area": "Mawdun Quarry",
-        "check": "Faridun War Cache",
+        "area": "ชายแดนวาสตีรี",
+        "check": "เปิดหีบที่ค่าย ",
         "rewards": [
           {
-            "img": "",
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "เหมืองผิวดินมอว์ดัน",
+        "check": "หีบสงครามฟาริดัน",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
             "label": "Artificer's Orb"
           }
         ],
@@ -390,12 +401,12 @@
         }
       },
       {
-        "area": "Mawdun Mine",
-        "check": "Munitions Bunker",
+        "area": "เหมืองแร่มอว์ดัน",
+        "check": "ฆ่าบอส - รุดจา วิศวกรเขย่าขวัญ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 6)"
+            "label": "หินเสริมหยาบ (เลเวล 6)"
           }
         ],
         "leagueRewards": {
@@ -403,12 +414,13 @@
         }
       },
       {
-        "area": "Traitor's Passage",
-        "check": "BOSS - B albala, the Traitor",
+        "area": "ทางผ่านผู้ทรยศ",
+        "check": "ฆ่าบอส -  บัลบาล่า ผู้ทรยศ",
         "rewards": [
           {
-            "img": "",
-            "label": "Djinn Barya"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Sanctum/BalbalaCoin1.webp",
+            "label": "บาร์ย่าจินน์ ( ไอเทมเปลื่ยยคลาส)",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -416,12 +428,12 @@
         }
       },
       {
-        "area": "Traitor's Passage",
-        "check": "Bell Chest",
+        "area": "ทางผ่านผู้ทรยศ",
+        "check": "เปิดหีบระฆัง",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 6)"
+            "label": "หินเสริมหยาบ (เลเวล 6)"
           }
         ],
         "leagueRewards": {
@@ -429,12 +441,13 @@
         }
       },
       {
-        "area": "Keth",
-        "check": "BOSS - Kabala, Constrictor Queen",
+        "area": "เค็ท",
+        "check": "ฆ่าบอส - คาบาล่า ราชินีงูยักษ์",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -442,11 +455,11 @@
         }
       },
       {
-        "area": "Keth",
-        "check": "Abandoned Prayer",
+        "area": "เค็ท",
+        "check": "แท่นบูชาร้าง",
         "rewards": [
           {
-            "img": "",
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
             "label": "Magic Amulet"
           }
         ],
@@ -455,12 +468,12 @@
         }
       },
       {
-        "area": "The Lost City",
-        "check": "The Ninth Treasure of Keth",
+        "area": "นครที่สาบสูญ",
+        "check": "อุโมงค์ค้าขาย",
         "rewards": [
           {
-            "img": "",
-            "label": "Magic Jewel"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Jewels/EmeraldJewel.webp",
+            "label": "จิวเวล"
           }
         ],
         "leagueRewards": {
@@ -468,12 +481,12 @@
         }
       },
       {
-        "area": "The Lost City",
-        "check": "Golden Tomb",
+        "area": "นครที่สาบสูญ",
+        "check": "หลุมฝังศพทองคำ",
         "rewards": [
           {
             "img": "",
-            "label": "Uncut Spirit Gem (Level 6 or 7)"
+            "label": "หินพลังวิญญาณหยาบ (เวล 6 หรือ 7)"
           }
         ],
         "leagueRewards": {
@@ -481,12 +494,13 @@
         }
       },
       {
-        "area": "Buried Shrines",
-        "check": "Suspicious Sarcophagus",
+        "area": "อารามจมทราย",
+        "check": "โลงหินที่ถูกคุ้มครอง",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 1)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -494,20 +508,20 @@
         }
       },
       {
-        "area": "Buried Shrines",
-        "check": "Elemental Offering",
+        "area": "อารามจมทราย",
+        "check": "เครื่องเซ่นไหว้แก่ธาตุ",
         "rewards": [
           {
-            "img": "",
-            "label": "Magic Ruby Ring"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/RubyRing.webp",
+            "label": "Magic Ruby Ring (เลือกได้ 1 อย่าง)"
           },
           {
-            "img": "",
-            "label": "Magic Sapphire Ring"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+            "label": "Magic Sapphire Ring (เลือกได้ 1 อย่าง)"
           },
           {
-            "img": "",
-            "label": "Magic Topaz Ring"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+            "label": "Magic Topaz Ring (เลือกได้ 1 อย่าง)"
           }
         ],
         "leagueRewards": {
@@ -515,12 +529,13 @@
         }
       },
       {
-        "area": "Buried Shrines",
-        "check": "\"City of the Seven Waters\" Quest",
+        "area": "อารามจมทราย",
+        "check": "ฆ่าบอส บุตรผู้ถูกทอดทิ้ง  / กลับไปคุย NPC ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 2)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -528,16 +543,16 @@
         }
       },
       {
-        "area": "Valley of the Titans",
-        "check": "\"Offering to Amrit\" Quest",
+        "area": "หุบเขาแห่งไททัน",
+        "check": "รูปสลักพันธไมตรี (อยู่ที่เปิดเวย์พ้อย)",
         "rewards": [
           {
-            "img": "",
-            "label": "+30% increased Charm Charges Gained"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionSerpentHalf.webp",
+            "label": "(เลือกได้ 1 อย่าง) เพิ่มชาร์จของขลังที่ได้รับ 30% ช่องของขลัง +1 ช่อง"
           },
           {
-            "img": "",
-            "label": "15% increased Mana Recovery from Flasks"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionHyenaHalf.webp",
+            "label": "(เลือกได้ 1 อย่าง) เพิ่มระยะเวลาส่งผลของของขลัง 30% ช่องของขลัง +1 ช่อง"
           }
         ],
         "leagueRewards": {
@@ -545,16 +560,13 @@
         }
       },
       {
-        "area": "The Titan Grotto",
-        "check": "BOSS - Zalmarath, the Colossus",
+        "area": "ถ้ำลอดไททัน",
+        "check": "ฆ่าบอส - ซัลมาแรธ หุ่นมหึมา / กลับไปคุย NPC ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
-          },
-          {
-            "img": "",
-            "label": "500 Gold"
+            "label": "หินเสริมหยาบ (เลเวล 2)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -562,12 +574,12 @@
         }
       },
       {
-        "area": "The Titan Grotto",
-        "check": "Titan's Sword",
+        "area": "ถ้ำลอดไททัน",
+        "check": "สมบัติไททัน",
         "rewards": [
           {
-            "img": "",
-            "label": "Random Lesser Rune"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/AccuracyRuneTier1.webp",
+            "label": "สุ่ม Lesser Rune"
           }
         ],
         "leagueRewards": {
@@ -575,12 +587,13 @@
         }
       },
       {
-        "area": "Mastodon Badlands",
-        "check": "Fossilised Memorial",
+        "area": "แดนกันดารมาสโตดอน",
+        "check": "แท่นบูชากระดูก",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 2)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -588,12 +601,13 @@
         }
       },
       {
-        "area": "The Bone Pits",
-        "check": "BOSS - Iktab, the Deathlord and Ekbab, Ancient Steed",
+        "area": "หลุมกระดูก",
+        "check": "ฆ้าบอส - เอ็คบาบ ไอยราโบราณ / กลับไปคุย NPC ",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 1)"
+            "label": "หินเสริมหยาบ (เลเวล 2)",
+            "color": "#00e2e6"
           }
         ],
         "leagueRewards": {
@@ -601,16 +615,12 @@
         }
       },
       {
-        "area": "Deshar",
-        "check": "\"Tradition's Toll\" Quest Reward",
+        "area": "เดชาร์",
+        "check": "เก็บจดหมายสั่งเสีย ส่ง NPC",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
-          },
-          {
-            "img": "",
-            "label": "Artificer's Orb"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
           }
         ],
         "leagueRewards": {
@@ -618,12 +628,13 @@
         }
       },
       {
-        "area": "Deshar",
-        "check": "Rare Vulture Monsters",
+        "area": "เดชาร์",
+        "check": "นกแฝดผู้เฝ้ามอง",
         "rewards": [
           {
-            "img": "",
-            "label": "Djinn Barya"
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Sanctum/BalbalaCoin1.webp",
+            "label": "บาร์ย่าจินน์ ",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
@@ -631,12 +642,12 @@
         }
       },
       {
-        "area": "Path of Mourning",
-        "check": "Hushed Urn",
+        "area": "เส้นทางอาลัย",
+        "check": "แจกันยักย้าย",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 8)"
+            "label": "หินเสริมหยาบ (เลเวล 8)"
           }
         ],
         "leagueRewards": {
@@ -644,12 +655,13 @@
         }
       },
       {
-        "area": "The Spires of Deshar",
-        "check": "Sisters of Garukhan",
+        "area": "ยอดแหลมแห่งเดชาร์",
+        "check": "พี่น้องการูคาน",
         "rewards": [
           {
             "img": "",
-            "label": "+10% to Lightning Resistance"
+            "label": "ค่าต้านทาน สายฟ้า +10%",
+            "color": "#8280ff"
           }
         ],
         "leagueRewards": {
@@ -670,7 +682,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 9)"
+            "label": "หินเสริมหยาบ (เลเวล 9)"
           }
         ],
         "leagueRewards": {
@@ -696,7 +708,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
           }
         ],
         "leagueRewards": {
@@ -764,7 +776,7 @@
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 9)"
+            "label": "หินเสริมหยาบ (เลเวล 9)"
           }
         ],
         "leagueRewards": {
@@ -790,7 +802,7 @@
         "rewards": [
           {
             "img": "",
-            "label": "Uncut Spirit Gem (Level 10)"
+            "label": "หินพลังวิญญาณหยาบ (เวล 10)"
           }
         ],
         "leagueRewards": {
@@ -816,7 +828,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 10)"
+            "label": "หินเสริมหยาบ (เลเวล 10)"
           },
           {
             "img": "",
@@ -837,7 +849,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
-            "label": "Uncut Skill Gem (Level 11)"
+            "label": "หินเสริมหยาบ (เลเวล 11)"
           }
         ],
         "leagueRewards": {
@@ -850,7 +862,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
-            "label": "Uncut Support Gem (Level 2)"
+            "label": "หินเสริมหยาบ (เลเวล 2)"
           }
         ],
         "leagueRewards": {
@@ -884,7 +896,7 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
-            "label": "Book of Specialisation (+2 Weapon Set Skill Points)"
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม"
           }
         ],
         "leagueRewards": {
