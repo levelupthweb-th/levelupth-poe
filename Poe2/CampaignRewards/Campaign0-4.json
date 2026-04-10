@@ -2,20 +2,27 @@
   {
     "id": 1,
     "title": "Act 1",
-    "subtitle": "ฟหกฟกฟไกไก",
-    "note": "Source: Mobalytics Campaign Loot Normal",
+    "subtitle": "Ogham",
+    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
     "rows": [
+      {
+        "area": "ริมตลิ่ง",
+        "check": "สังหารเจ้าของโรงสีขึ้นอืด",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
+            "label": "หินสกิลหยาบ (เลเวล 1)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {}
+      },
       {
         "area": "Clearfell",
         "check": "BOSS - Beira of the Rotten Pack",
-        "preview": {
-          "text": "กฟหกฟกกหฟกกหกกฟหกก",
-          "youtube": "ฟหกหฟกหฟกกฟหหฟก",
-          "image": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Belts/Belt6Unique2.webp"
-        },
         "rewards": [
           {
-            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalGoddess.webp",
+            "img": "https://raw.githubusercontent.com/levelupthweb-wq/levelupth-poe/main/Poe2/Art/2DItems/Belts/Uniques/Headhunter.webp",
             "label": "+10% Cold Resistance"
           }
         ],
@@ -23,14 +30,13 @@
           "0-4": [
             {
               "img": "",
-              "label": "100000 ทอง",
-              "color": "#ff0000"
+              "label": "100000 Gold"
             }
           ]
         }
       },
       {
-        "area": "Mysterious Campฟหกฟหกหsite",
+        "area": "Mysterious Campsite",
         "check": "Chest",
         "rewards": [
           {
@@ -328,7 +334,7 @@
     "id": 2,
     "title": "Act 2",
     "subtitle": "Vastiri / Keth",
-    "note": "Source: Mobalytics Campaign Loot Normal",
+    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
     "rows": [
       {
         "area": "Vastiri Outskirts",
@@ -629,7 +635,7 @@
     "id": 3,
     "title": "Act 3",
     "subtitle": "Keth / Utzaal",
-    "note": "Source: Mobalytics Campaign Loot Normal",
+    "note": "อ้างอิงจาก Mobalytics Campaign Loot Normal",
     "rows": [
       {
         "area": "Sandswept Marsh",
@@ -864,7 +870,7 @@
     "id": 4,
     "title": "Act 4",
     "subtitle": "Placeholder",
-    "note": "Waiting for future updates",
+    "note": "รอคุณเติมข้อมูลภายหลัง",
     "rows": [
       {
         "area": "Coming Soon",
@@ -872,7 +878,7 @@
         "rewards": [
           {
             "img": "",
-            "label": "Preparing data for Act 4"
+            "label": "เตรียมเพิ่มข้อมูล Act 4"
           }
         ],
         "leagueRewards": {
@@ -885,7 +891,7 @@
     "id": 5,
     "title": "Act 5",
     "subtitle": "Placeholder",
-    "note": "Waiting for future updates",
+    "note": "รอคุณเติมข้อมูลภายหลัง",
     "rows": [
       {
         "area": "Coming Soon",
@@ -893,7 +899,7 @@
         "rewards": [
           {
             "img": "",
-            "label": "Preparing data for Act 5"
+            "label": "เตรียมเพิ่มข้อมูล Act 5"
           }
         ],
         "leagueRewards": {
@@ -906,7 +912,7 @@
     "id": 6,
     "title": "Act 6",
     "subtitle": "Placeholder",
-    "note": "Waiting for future updates",
+    "note": "รอคุณเติมข้อมูลภายหลัง",
     "rows": [
       {
         "area": "Coming Soon",
@@ -914,7 +920,7 @@
         "rewards": [
           {
             "img": "",
-            "label": "Preparing data for Act 6"
+            "label": "เตรียมเพิ่มข้อมูล Act 6"
           }
         ],
         "leagueRewards": {
