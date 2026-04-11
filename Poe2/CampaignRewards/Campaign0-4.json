@@ -829,8 +829,8 @@
         }
       },
       {
-        "area": "The Molten Vault",
-        "check": "BOSS - Mektul, the Forgemaster",
+        "area": "พระคลังหลอมเหลว",
+        "check": "ฆ่าบอส - เมคทุล ผู้คุมโรงหลอม",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
@@ -883,15 +883,15 @@
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol01.webp?raw=true",
-            "label": "500 Gold: Golden Idol"
+            "label": "500 ทอง : เทวรูปทอง"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol02.webp?raw=true",
-            "label": "1000 Gold: Grand Idol"
+            "label": "1000 ทอง : เทวรูปยิ่งใหญ่"
           },
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol03.webp?raw=true",
-            "label": "1500 Gold: Glorious Idol"
+            "label": "1500 ทอง : เทวรูปรุ่งโรจน์"
           }
         ],
         "leagueRewards": {
@@ -917,21 +917,184 @@
   {
     "id": 4,
     "title": "Act 4",
-    "subtitle": "Placeholder",
-    "note": "รอคุณเติมข้อมูลภายหลัง",
+    "subtitle": "คิงส์มาร์ช",
+    "note": "",
     "rows": [
       {
-        "area": "Coming Soon",
-        "check": "Pending",
+        "area": "หมอกมืดมน",
+        "check": "สังหารกัปตันฮาร์ทลิน / ใช้เหล็กแหลมสลักเวรีเซียมปลดปล่อยเฟรยา",
         "rewards": [
           {
-            "img": "",
-            "label": "เตรียมเพิ่มข้อมูล Act 4"
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
           }
         ],
         "leagueRewards": {
           "0-4": []
         }
+      },
+      {
+        "area": "เกาะคิน",
+        "check": "คอกสัตว์ร้าย",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 4)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "เกาะคิน",
+        "check": "ฆ่าบอส - สัตว์ร้ายตาบอด",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 12)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "เกาะไชร์ค",
+        "check": "ฆ่าบอส - หายนะแห่งฟากฟ้า",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
+            "label": "ปลดล็อค - แมพดวงตาแห่งฮิเนโครา",
+            "color": "#8280ff"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "ดวงตาแห่งฮิเนโครา",
+        "check": "ที่พักของนาวาลี (กดบ่อน้ำ) ",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
+            "label": "มานา + 5%",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "โถงแห่งผู้วายชนม์",
+        "check": "ลายสักบรรพชน",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooDex01.webp?raw=true",
+            "label": "Dexterity +5 หรือ ค่าต้านทาน สายฟ้า +5%",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooInt01.webp?raw=true",
+            "label": "Intelligence +5 หรือ ค่าต้านทาน น้ำแข็ง +5%",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooStr01.webp?raw=true",
+            "label": "Strength +5 หรือ ค่าต้านทาน ไฟ +5%",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "โถงแห่งผู้วายชนม์",
+        "check": "ฆ่าบอส - วานรขาว แล้วเอาเหรียญไปให้แม่ใหญ่ฮิเนโครา",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooNoteable01.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "เรือนจำร้าง",
+        "check": "เทพีแห่งความยุติธรรม",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
+            "label": "เพิ่มการ เติมพลังชีวิต จากขวดยา 30% หรือ",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
+            "label": "เพิ่มการ เติมมานา จากขวดยา 30%",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "เกาะฟาคาปานู",
+        "check": "ฆ่า ปูแสนสะพรึง ",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 4)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "เกาะฟาคาปานู",
+        "check": "ฆ่าบอส - มหาฉลามขาว",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "หินเสริมหยาบ (เลเวล 4) เลือกได้ 1 อย่าง",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 12)",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp?raw=true",
+            "label": "หินวิญญาณ (เลเวล 12)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "ถ้ำขับขาน",
+        "check": "หอยมุกเชื้อเชิญ",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp?raw=true",
+            "label": "สร้อยต้านธาตุ ทุกธาตุ",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "อะราสตาส์",
+        "check": " ระฆังทอง (มี 2ที่)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+            "label": "Exalted Orbs x3",
+            "color": "#db8b00"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+            "label": "Regal Orbs x3",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
       }
     ]
   },
