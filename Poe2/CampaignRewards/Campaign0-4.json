@@ -15,7 +15,10 @@
             "color": "#ffffff"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {},
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=XzW3Xwl2_0Q"
+        }
       },
       {
         "area": "เคลียร์เฟล",
