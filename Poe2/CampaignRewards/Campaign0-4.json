@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Act 1",
-    "subtitle": "Ogham",
+    "subtitle": "ค่ายเคลียร์เฟล",
     "note": "",
     "rows": [
       {
@@ -357,7 +357,7 @@
   {
     "id": 2,
     "title": "Act 2",
-    "subtitle": "Vastiri / Keth",
+    "subtitle": "คาราวานอาร์ดูร่า",
     "note": "",
     "rows": [
       {
@@ -674,7 +674,7 @@
   {
     "id": 3,
     "title": "Act 3",
-    "subtitle": "Keth / Utzaal",
+    "subtitle": "ค่ายซิกกุรัต",
     "note": "",
     "rows": [
       {
@@ -1119,6 +1119,165 @@
       {
         "area": "คุกหมาป่า",
         "check": "ฆ่าบอส ออสวิน ผู้คุมสยดสยอง",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Interlude 2",
+    "subtitle": "ตลาดคารี",
+    "note": "",
+    "rows": [
+      {
+        "area": "ทางข้ามคารี",
+        "check": "ฆ่าบอส 2 ตัว อาคติและอนันดร์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "ทางข้ามคารี",
+        "check": "แท่นหลอมละลาย",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp?raw=true",
+            "label": "เพิ่มพลังชีวิตสูงสุด 5%",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "คีมาห์",
+        "check": "เสาทั้งเจ็ด",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasInactive.webp",
+            "label": "เลือกบัฟได้ 1 อย่าง ",
+            "color": "#f74a4a"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "ค่าต้านทาน ทุกธาตุ +5%",
+            "color": "#db8b00"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มความเร็วในการเคลื่อนที่ 3%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มค่าป้องกัน ของตัวละคร 15%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มพื้นที่ส่งผลของ ระยะปรากฏกาย 20%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ 12%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "+5 ค่าคุณสมบัติทุกชนิด",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มค่าประสบการณ์ที่ได้รับ 5%  (ลดความเร็วในการเคลื่อนที่ 3% ค่าต้านทาน ทุกธาตุ -5% ลดพื้นที่ส่งผลของ ระยะปรากฏกาย 20% ลดค่าคุณสมบัติ 5% ลดค่าป้องกัน ของตัวละคร 15% ลดความเร็วในการฟื้นฟูคูลดาวน์ 12%)",
+            "color": "#e0861f"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "อ่างเก็บน้ำคีมาห์",
+        "check": "บ่อวารีศักดิ์สิทธิ์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+            "label": "สุ่มเงินตราที่ได้ ",
+            "color": "#8280ff"
+          }
+        ],
+        "leagueRewards": {}
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Interlude 3",
+    "subtitle": "ทุ่งโล่ง",
+    "note": "",
+    "rows": [
+      {
+        "area": "ป่ามอดไหม้",
+        "check": "อนุสรณ์โบราณ",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "หินสกิลหยาบ (เลเวล 14)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "หมู่บ้านไครอาร์",
+        "check": "ฆ่าบอส - ไลธาร่า หอกผ่าเหล่า",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_02b.webp?raw=true",
+            "label": "พลังวิญญาณ +40",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "ถ้ำหอน",
+        "check": "ฆ่าบอส - เยติต่ำช้า ลิงยักษ์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "แต้มพาสซีฟชุดอาวุธ 2 แต้ม",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "ยอดเขาไครอาร์",
+        "check": "ผู้เฒ่านาเกลือ มาด็อกซ์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/PrecursorLance_Staff.webp?raw=true",
+            "label": "Unique Item แบบสุ่ม (เลือกได้ 1 ชิ้น)",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "กลับ คิงส์มาร์ช",
+        "check": "จบ Interlude ทั้งหมด",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
