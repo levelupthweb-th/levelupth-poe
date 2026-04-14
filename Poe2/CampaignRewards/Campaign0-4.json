@@ -15,7 +15,9 @@
             "color": "#ffffff"
           }
         ],
-        "leagueRewards": {},
+        "leagueRewards": {
+          "0-4": []
+        },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=Agq_8WAutRY"
         }
@@ -31,7 +33,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToMagic.webp?raw=true",
+              "label": "Orb of Transmutation",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=lnrllaNmrMI"
@@ -72,7 +80,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToMagic.webp?raw=true",
+              "label": "Orb of Augmentation",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=6rDMiJYXTdQ"
@@ -88,7 +102,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToMagic.webp?raw=true",
+              "label": "Orb of Transmutation",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=phRPbL4ahuc"
@@ -129,7 +149,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "หินสกิลหยาบ (เลเวล 2)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=cp0VFQiEQrY"
@@ -146,7 +172,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "หินสกิลหยาบ (เลเวล 3)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=rrhWeZPaUM8"
@@ -162,7 +194,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+              "label": "Regal Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=8hTgnabEWrk"
@@ -195,7 +233,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/AzureAmulet.webp?raw=true",
+              "label": "Normal Amulet",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=1N-0RUW7-ws"
@@ -227,7 +271,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=66jstMP5ICI"
@@ -281,7 +331,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 1)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=YMrY6yIqAjA"
@@ -298,7 +354,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "หินสกิลหยาบ (เวล 4)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=EF578CYWn-c"
@@ -331,7 +393,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=BgREPHWOG7A"
@@ -418,7 +486,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=o0JpSSb-9oE"
