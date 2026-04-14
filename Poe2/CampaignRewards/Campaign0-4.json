@@ -980,7 +980,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 3)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=krUjRw5tPfg"
@@ -1014,7 +1020,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=gR9_dedbkAU"
@@ -1030,7 +1042,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=gnSFpn1pS_c"
@@ -1096,7 +1114,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "หินสกิลหยาบ (เลเวล 9)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=Stn1Q0fAJXI"
@@ -1113,7 +1137,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=cUqUn6prRjM"
@@ -1149,6 +1179,34 @@
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=Em5JUI2vgt8"
+        }
+      },
+      {
+        "area": "นครจมน้ำ",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 3)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "ยอดแห่งความโสมม",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyVaal.webp?raw=true",
+              "label": "Vaal Orb",
+              "color": "#fde68a"
+            }
+          ]
         }
       },
       {
@@ -1208,7 +1266,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Jewels/SpecialRubyJewel.webp?raw=true",
+              "label": "Jewel หรือ Time-Lost แบบสุ่ม",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=BoK9c0WQ7T8"
@@ -1246,7 +1310,13 @@
           }
         ],
         "leagueRewards": {
-          "0-4": []
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyVaal.webp?raw=true",
+              "label": "หินสกิลหยาบ (เลเวล 11)",
+              "color": "#fde68a"
+            }
+          ]
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=RW0F_lxW5vw"
@@ -1284,7 +1354,15 @@
             "color": "#00e2e6"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
+        }
       },
       {
         "area": "เกาะคิน",
@@ -1299,6 +1377,48 @@
         "leagueRewards": {}
       },
       {
+        "area": "โพรงภูเขาไฟ",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 4)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "อ่าวเค็ดจ์",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "สิ้นทางสิ้นซาก",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
         "area": "เกาะไชร์ค",
         "check": "ฆ่าบอส - หายนะแห่งฟากฟ้า",
         "rewards": [
@@ -1308,7 +1428,15 @@
             "color": "#8280ff"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "หินเสริมหยาบ (เลเวล 4)",
+              "color": "#fde68a"
+            }
+          ]
+        }
       },
       {
         "area": "ดวงตาแห่งฮิเนโครา",
@@ -1320,7 +1448,15 @@
             "color": "#00e2e6"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollRare.webp?raw=true",
+              "label": "Chaos Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
       },
       {
         "area": "โถงแห่งผู้วายชนม์",
@@ -1371,7 +1507,15 @@
             "color": "#a3a3a3"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
       },
       {
         "area": "เกาะฟาคาปานู",
@@ -1417,7 +1561,15 @@
             "color": "#f74a4a"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Charms/Basetypes/StoneCharm.webp?raw=true",
+              "label": "ของขลัง",
+              "color": "#fde68a"
+            }
+          ]
+        }
       },
       {
         "area": "อะราสตาส์",
@@ -1434,7 +1586,29 @@
             "color": "#00e2e6"
           }
         ],
-        "leagueRewards": {}
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "หินสกิลหยาบ (เลเวล 12)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "นาคานู",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers02.webp?raw=true",
+              "label": "Jeweller's Orb ชั้นสูง",
+              "color": "#fde68a"
+            }
+          ]
+        }
       }
     ]
   },
