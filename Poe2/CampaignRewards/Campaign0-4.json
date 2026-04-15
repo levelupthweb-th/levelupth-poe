@@ -1376,6 +1376,20 @@
       },
       {
         "area": "เกาะคิน",
+        "check": "เหมืองพินาศ",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp",
+            "label": "Jeweller's Orb ชั้นต่ำ",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "เกาะคิน",
         "check": "ฆ่าบอส - สัตว์ร้ายตาบอด",
         "rewards": [
           {
