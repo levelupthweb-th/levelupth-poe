@@ -779,7 +779,7 @@
       },
       {
         "area": "Valley of the Titans",
-        "check": "Sculpture of Alliance (at Waypoint)",
+        "check": "Medallion",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionSerpentHalf.webp",
@@ -890,7 +890,7 @@
       },
       {
         "area": "Deshar",
-        "check": "Collect Last Letter and send to NPC",
+        "check": "Find Final Letter and send to NPC",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
@@ -924,7 +924,7 @@
       },
       {
         "area": "Path of Mourning",
-        "check": "Vaseยักย้าย",
+        "check": "Shifting Vases",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp",
@@ -1151,7 +1151,7 @@
       },
       {
         "area": "Jiquani's Sanctum",
-        "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
+        "check": "Zicoatl, Warden of the Core",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
@@ -1280,7 +1280,7 @@
       },
       {
         "area": "Utzaal",
-        "check": "Curious Treasure",
+        "check": "Peculiar Fortunes",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol01.webp?raw=true",
@@ -1300,8 +1300,8 @@
         }
       },
       {
-        "area": "Akhorat",
-        "check": "Blood Altar",
+        "area": "Aggorat",
+        "check": "Blood Sacrifice",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
