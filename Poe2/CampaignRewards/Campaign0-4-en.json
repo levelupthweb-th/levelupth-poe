@@ -1,0 +1,1830 @@
+[
+  {
+    "id": 1,
+    "title": "Act 1",
+    "subtitle": "Clearfell Encampment",
+    "note": "",
+    "rows": [
+      {
+        "area": "The Riverbank",
+        "check": "Slay The Bloated Miller",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
+            "label": "Uncut Skill Gem (Level 1)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Agq_8WAutRY"
+        }
+      },
+      {
+        "area": "Clearfell",
+        "check": "Slay Beira of the Rotten Pack",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CroneWolfHead.webp",
+            "label": "Cold Resistance +10%",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToMagic.webp?raw=true",
+              "label": "Orb of Transmutation",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=lnrllaNmrMI"
+        }
+      },
+      {
+        "area": "Clearfell",
+        "check": "Mysterious Campsite",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 1)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=xmm_gG_Z4W4"
+        }
+      },
+      {
+        "area": "Mud Burrow",
+        "check": "Slay The Devourer",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 2)"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyCoin.webp",
+            "label": "100 Gold"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToMagic.webp?raw=true",
+              "label": "Orb of Augmentation",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=6rDMiJYXTdQ"
+        }
+      },
+      {
+        "area": "The Grelwood",
+        "check": "BOSS - The Brambleghast",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 2)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToMagic.webp?raw=true",
+              "label": "Orb of Transmutation",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=phRPbL4ahuc"
+        }
+      },
+      {
+        "area": "The Grelwood",
+        "check": "Find Witch Hut / Slay Areagne, Forgotten Witch",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Flasks/Basetypes/FlaskLife02.webp",
+            "label": "Medium Life Flask"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Flasks/Basetypes/FlaskMana02.webp",
+            "label": "Medium Mana"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=CDqr2nMDYjc"
+        }
+      },
+      {
+        "area": "The Red Vale",
+        "check": "BOSS - The Rust King",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 3)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 2)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=cp0VFQiEQrY"
+        }
+      },
+      {
+        "area": "The Grim Tangle",
+        "check": "BOSS - Ervig, the Rotten Druid",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 3)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=rrhWeZPaUM8"
+        }
+      },
+      {
+        "area": "Cemetery of the Eternals",
+        "check": "Find Ancient Ruin / Sarcophagus",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/IronRing.webp",
+            "label": "Normal Rarity Ring"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+              "label": "Regal Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=8hTgnabEWrk"
+        }
+      },
+      {
+        "area": "Cemetery of the Eternals",
+        "check": "BOSS - Lachlann of Endless Lament",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 3)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=7GhS__GKgDg"
+        }
+      },
+      {
+        "area": "Tomb of the Consort",
+        "check": "Find Embattled Trove (Chest)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/AzureAmulet.webp?raw=true",
+              "label": "Normal Amulet",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=1N-0RUW7-ws"
+        }
+      },
+      {
+        "area": "Mausoleum of the Praetor",
+        "check": "Find Forgotten Riches (Chest)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {},
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=B1rZNa7i_MU"
+        }
+      },
+      {
+        "area": "Hunting Grounds",
+        "check": "BOSS - The Crowbell",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=66jstMP5ICI"
+        }
+      },
+      {
+        "area": "Hunting Grounds",
+        "check": "Ritual Altar",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 4)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=wnNHs1Sp4q4"
+        }
+      },
+      {
+        "area": "Hunting Grounds",
+        "check": "Slay - Dryadic Ritual",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=RfR3QSoOoeU"
+        }
+      },
+      {
+        "area": "Freythorn",
+        "check": "BOSS - The King in the Mists",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_01a.webp",
+            "label": "Spirit +30",
+            "color": "#ff7300"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp",
+            "label": "Uncut Spirit Gem (Level 4)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 1)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=YMrY6yIqAjA"
+        }
+      },
+      {
+        "area": "Ogham Farmlands",
+        "check": "Una's Hut",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 4)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=EF578CYWn-c"
+        }
+      },
+      {
+        "area": "Ogham Farmlands",
+        "check": "Crop Circle",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 4)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=kjbHor1h0Y8"
+        }
+      },
+      {
+        "area": "Ogham Village",
+        "check": "Renly's Workshop",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/RenlysTools.webp",
+            "label": "Unlock - Salvage Bench",
+            "color": "#f6fa00"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=BgREPHWOG7A"
+        }
+      },
+      {
+        "area": "Ogham Village",
+        "check": "Find หีบช่างเหล็กแล้วเก็บ Blank Rune",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
+            "label": "Artificer's Orb"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/AccuracyRuneTier1.webp",
+            "label": "Lesser Rune"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=BgREPHWOG7A"
+        }
+      },
+      {
+        "area": "Ogham Village",
+        "check": "BOSS - The Executioner",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=bmEoZqKCgXQ"
+        }
+      },
+      {
+        "area": "Ogham Village",
+        "check": "Save Leitis",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 5)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=bmEoZqKCgXQ"
+        }
+      },
+      {
+        "area": "The Manor Ramparts",
+        "check": "The Gallows",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Uh9H-bLvlgw"
+        }
+      },
+      {
+        "area": "Ogham Manor",
+        "check": "BOSS - Living Rite",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MudBurrowerGift.webp",
+            "label": "+20 Maximum Life",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=o0JpSSb-9oE"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Act 2",
+    "subtitle": "Ardurra Caravan",
+    "note": "",
+    "rows": [
+      {
+        "area": "Vastiri Outskirts",
+        "check": "BOSS - Rathbreaker",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 5)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=WhWkPkGcwaI"
+        }
+      },
+      {
+        "area": "Vastiri Outskirts",
+        "check": "Open Camp Chest",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=47Bby_pBqIM"
+        }
+      },
+      {
+        "area": "Mawdun Quarry",
+        "check": "Faridun War Cache",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
+            "label": "Artificer's Orb"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=YR7Kr4lASsk"
+        }
+      },
+      {
+        "area": "Mawdun Mine",
+        "check": "BOSS - Rudja, Thrill Engineer",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 6)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 2)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Su7WvTY1GJ0"
+        }
+      },
+      {
+        "area": "Traitor's Passage",
+        "check": "BOSS - Balbala, the Traitor",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Sanctum/BalbalaCoin1.webp",
+            "label": "บาร์ย่าจินน์ ( ไอเทมเปลื่ยยคลาส)",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=canw1Q3nbDw"
+        }
+      },
+      {
+        "area": "Traitor's Passage",
+        "check": "Open Bell Chest",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 6)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=cFNdXgOk_xE"
+        }
+      },
+      {
+        "area": "Halani Gate",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Keth",
+        "check": "BOSS - Kabala, Constrictor Queen",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=p8AoVv2QjPE"
+        }
+      },
+      {
+        "area": "Keth",
+        "check": "Abandoned Altar",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Amulets/Basetypes/BloodstoneAmulet.webp",
+            "label": "Magic Amulet"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=fuRjtdGNuC4"
+        }
+      },
+      {
+        "area": "The Lost City",
+        "check": "Trading Tunnel",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Jewels/EmeraldJewel.webp",
+            "label": "Jewel"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=4S_RtebvKjo"
+        }
+      },
+      {
+        "area": "The Lost City",
+        "check": "Golden Tomb",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp",
+            "label": "Uncut Spirit Gem (Level 6)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=_MRuLqciC0Y"
+        }
+      },
+      {
+        "area": "Buried Shrines",
+        "check": "Protected Sarcophagus",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp?raw=true",
+              "label": "Jeweller's Orb (Lesser)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=aWUbfncxwOY"
+        }
+      },
+      {
+        "area": "Buried Shrines",
+        "check": "Elemental Offering",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/RubyRing.webp",
+            "label": "Magic Ruby Ring (Select 1)"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/SapphireRing.webp",
+            "label": "Magic Sapphire Ring"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Rings/Basetypes/TopazRing.webp",
+            "label": "Magic Topaz Ring"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Z5Dx5utSDOw"
+        }
+      },
+      {
+        "area": "Buried Shrines",
+        "check": "BOSS - The Forsaken Son / Return to NPC",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=CPOrLGYZ1J4"
+        }
+      },
+      {
+        "area": "Valley of the Titans",
+        "check": "Sculpture of Alliance (at Waypoint)",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionSerpentHalf.webp",
+            "label": "30% increased Charm Charges Gained +1 Charm Slot"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/MedallionHyenaHalf.webp",
+            "label": "30% increased Charm Duration +1 Charm Slot"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Belts/Uniques/CowardsLegacy.webp?raw=true",
+              "label": "Unique Item",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=M5KHZgH482k"
+        }
+      },
+      {
+        "area": "The Titan Grotto",
+        "check": "BOSS - Zalmarath, the Colossus / Return to NPC",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToUniqueShard.webp?raw=true",
+              "label": "Orb of Chance Shard",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=q3FMq60W_s8"
+        }
+      },
+      {
+        "area": "The Titan Grotto",
+        "check": "Titan's Treasure",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/AccuracyRuneTier1.webp",
+            "label": "Lesser Iron Rune"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=jNPRxhkBX2w"
+        }
+      },
+      {
+        "area": "Mastodon Badlands",
+        "check": "Fossilised Memorial",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+              "label": "Regal Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Y0dd-dHGY2k"
+        }
+      },
+      {
+        "area": "The Bone Pits",
+        "check": "BOSS - Ekbab, Ancient Steed / Return to NPC",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=KeqocB_emig"
+        }
+      },
+      {
+        "area": "Deshar",
+        "check": "Collect Last Letter and send to NPC",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=CIgGpxJG6mE"
+        }
+      },
+      {
+        "area": "Deshar",
+        "check": "นกแฝดผู้เฝ้ามอง",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Sanctum/BalbalaCoin1.webp",
+            "label": "บาร์ย่าจินน์",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Y_Hg_P73OBU"
+        }
+      },
+      {
+        "area": "Path of Mourning",
+        "check": "Vaseยักย้าย",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp",
+            "label": "Uncut Support Gem (Level 2)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=ufV9asj3-Hs"
+        }
+      },
+      {
+        "area": "The Spires of Deshar",
+        "check": "Sisters of Garukhan",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SacredWaterVialQuestItem.webp",
+            "label": "Lightning Resistance +10%",
+            "color": "#8280ff"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=GHjTRjO8Wv8"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Act 3",
+    "subtitle": "Ziggurat Encampment",
+    "note": "",
+    "rows": [
+      {
+        "area": "Sandswept Marsh",
+        "check": "BOSS - Rootdredge",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 9)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 3)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=krUjRw5tPfg"
+        }
+      },
+      {
+        "area": "Sandswept Marsh",
+        "check": "Orok Campfire",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp",
+            "label": "Jeweller's Orb (Lesser)",
+            "color": "#e0861f"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=z58zag4uOcI"
+        }
+      },
+      {
+        "area": "Jungle Ruins",
+        "check": "BOSS - Mighty Silverfist",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=gR9_dedbkAU"
+        }
+      },
+      {
+        "area": "Jungle Ruins",
+        "check": "Jungle Grave",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Belts/Basetypes/Belt01.webp",
+            "label": "Rare Belt"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=gnSFpn1pS_c"
+        }
+      },
+      {
+        "area": "The Venom Crypts",
+        "check": "Collect Corpse Snake Venom and send to NPC",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotionBlue.webp",
+            "label": "เพิ่มความยากในการติดสถานะ สตัน 25% (เลือก 1 อย่าง)"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotionRed.webp",
+            "label": "เพิ่มความยากในการติด สถานะเจ็บป่วยธาตุ 30%"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SnakeLadyPotion.webp",
+            "label": "เพิ่มความเร็วในการ ฟื้นฟูมานา 25%"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp",
+            "label": "Artificer's Orb"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=e7eDIoaJLZg"
+        }
+      },
+      {
+        "area": "The Azak Bog",
+        "check": "BOSS - Ignagduk, the Bog Witch",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_02a.webp",
+            "label": "Spirit +30",
+            "color": "#e0861f"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=a4_Z0FfwVjA"
+        }
+      },
+      {
+        "area": "Chimeral Wetlands",
+        "check": "BOSS - Xyclucian, the Chimera",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/UltimatumTrialQuestItem.webp",
+            "label": "คำขาดจารึกไคมีรัล",
+            "color": "#00f028"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 9)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 9)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Stn1Q0fAJXI"
+        }
+      },
+      {
+        "area": "Jiquani's Machinarium",
+        "check": "BOSS - Blackjaw, the Remnant",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp",
+            "label": "Fire Resistance +10%",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
+              "label": "Artificer's Orb",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=cUqUn6prRjM"
+        }
+      },
+      {
+        "area": "Jiquani's Sanctum",
+        "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
+            "label": "Uncut Skill Gem (Level 10)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=NmJkjGd0Mo4"
+        }
+      },
+      {
+        "area": "Jiquani's Sanctum",
+        "check": "Paquate's Mechanism",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/LipDisk.webp",
+            "label": "แท่น VAAL ไอเทม"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=Em5JUI2vgt8"
+        }
+      },
+      {
+        "area": "The Drenched City",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 3)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Spire of Vile",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyVaal.webp?raw=true",
+              "label": "Vaal Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "The Molten Vault",
+        "check": "BOSS - Mektul, the Forgemaster",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 10)"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/RenlysTools.webp?raw=true",
+            "label": "Unlock - Reforging Bench",
+            "color": "#f6fa00"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddEquipmentSocket.webp?raw=true",
+            "label": "Artificer's Orb"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=1_mbtaSSUNU"
+        }
+      },
+      {
+        "area": "Temple of Kopec",
+        "check": "BOSS - Ketzuli, High Priest of the Sun",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 11)"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=WrNCIEoOTcY"
+        }
+      },
+      {
+        "area": "Utzaal",
+        "check": "BOSS - Napuatsi, the Serpent",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 3)",
+            "color": "#00e2e6"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 11)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Jewels/SpecialRubyJewel.webp?raw=true",
+              "label": "Jewel or Time-Lost Random",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=BoK9c0WQ7T8"
+        }
+      },
+      {
+        "area": "Utzaal",
+        "check": "Curious Treasure",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol01.webp?raw=true",
+            "label": "500 Gold : Gold Idol"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol02.webp?raw=true",
+            "label": "1000 Gold : Great Idol"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/GoldIdol03.webp?raw=true",
+            "label": "1500 Gold : Glorious Idol"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "Akhorat",
+        "check": "Blood Altar",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyVaal.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 11)",
+              "color": "#fde68a"
+            }
+          ]
+        },
+        "preview": {
+          "youtube": "https://www.youtube.com/watch?v=RW0F_lxW5vw"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Act 4",
+    "subtitle": "Kingsmarch",
+    "note": "",
+    "rows": [
+      {
+        "area": "The Murky Mist",
+        "check": "Slay Captain Heartlin / ใช้เหล็กแหลมสลักเวรีเซียมปลดปล่อยFreya",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 13)",
+            "color": "#ffffff"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/DistilledEmotions/DistilledIre.webp",
+            "label": "Diluted Liquid Random 5-6 pcs",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "Isle of Kin",
+        "check": "คอกสัตว์ร้าย",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 4)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyGemQuality.webp?raw=true",
+              "label": "Gemcutter's Prism",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Isle of Kin",
+        "check": "Ruined Mine",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers01.webp",
+            "label": "Jeweller's Orb (Lesser)",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "Isle of Kin",
+        "check": "BOSS - สัตว์ร้ายตาบอด",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Currency/Runes/EnhanceRuneTier2.webp",
+            "label": "Greater Rune (Select 1)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Volcanic Hollow",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 4)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Kedge Bay",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Dead End",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeToRare.webp?raw=true",
+              "label": "Orb of Alchemy",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Isle of Shrike",
+        "check": "BOSS - Calamity of the Skies",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
+            "label": "Unlock - แมพEye of Hinekora",
+            "color": "#8280ff"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+              "label": "Uncut Support Gem (Level 4)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Eye of Hinekora",
+        "check": "Navali's Dwelling (Click well)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/NavaliSilverCoin.webp?raw=true",
+            "label": "มานา + 5%",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollRare.webp?raw=true",
+              "label": "Chaos Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Hall of the Dead",
+        "check": "Ancestral Tattoo",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooDex01.webp?raw=true",
+            "label": "Dexterity +5 or Lightning Resistance +5%",
+            "color": "#f74a4a"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooInt01.webp?raw=true",
+            "label": "Intelligence +5 or Cold Resistance +5%",
+            "color": "#f74a4a"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooStr01.webp?raw=true",
+            "label": "Strength +5 or Fire Resistance +5%",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Hall of the Dead",
+        "check": "BOSS - White Ape แล้วGive coin to Mother Hinekora",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Tattoos/TattooNoteable01.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Abandoned Prison",
+        "check": "Goddess of Justice",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
+            "label": "เพิ่มการ เติมMaximum Life จากขวดยา 30% or",
+            "color": "#a3a3a3"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/MedallionCombined.webp?raw=true",
+            "label": "เพิ่มการ เติมมานา จากขวดยา 30%",
+            "color": "#a3a3a3"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+              "label": "Exalted Orb",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Isle of Fakapanu",
+        "check": "Slay Terror Crab",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 4)",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Isle of Fakapanu",
+        "check": "BOSS - The Great White Shark",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
+            "label": "Uncut Support Gem (Level 4) Select 1",
+            "color": "#a3a3a3"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 12)",
+            "color": "#a3a3a3"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGemBuff.webp?raw=true",
+            "label": "Uncut Spirit Gem (Level 12)",
+            "color": "#a3a3a3"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Singing Caves",
+        "check": "Inviting Pearl",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Amulets/Basetypes/PearlescentAmulet.webp?raw=true",
+            "label": "สร้อยต้านธาตุ ทุกธาตุ",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Charms/Basetypes/StoneCharm.webp?raw=true",
+              "label": "ของขลัง",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Arastas",
+        "check": "Golden Bell (2 locations)",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+            "label": "Exalted Orbs x3",
+            "color": "#db8b00"
+          },
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyUpgradeMagicToRare.webp?raw=true",
+            "label": "Regal Orbs x3",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+              "label": "Uncut Skill Gem (Level 12)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      },
+      {
+        "area": "Nakanu",
+        "check": "",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": [
+            {
+              "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyRerollSocketNumbers02.webp?raw=true",
+              "label": "Jeweller's Orb (Greater)",
+              "color": "#fde68a"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Interlude 1",
+    "subtitle": "Scorched Farmlands",
+    "note": "",
+    "rows": [
+      {
+        "area": "Holten",
+        "check": "คนพายเรือ",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/Runes/AccuracyRuneTier2.webp?raw=true",
+            "label": "พ่อค้าขายรูนall types / 2000 Goldต่อpcs",
+            "color": "#00e2e6"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Wolf Prison",
+        "check": "BOSS - Oswin, the Dread Jailer",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Interlude 2",
+    "subtitle": "Kari Market",
+    "note": "",
+    "rows": [
+      {
+        "area": "Kari Crossing",
+        "check": "BOSS - 2 ตัว Akti and Anand",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Kari Crossing",
+        "check": "แท่นหลอมละลาย",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/SoulCore.webp?raw=true",
+            "label": "เพิ่มMaximum Lifeสูงสุด 5%",
+            "color": "#f74a4a"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Keamah",
+        "check": "The Seven Pillars",
+        "rewards": [
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasInactive.webp",
+            "label": "เลือกบัฟได้ 1 อย่าง",
+            "color": "#f74a4a"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "All Elemental Resistances +5%",
+            "color": "#db8b00"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มความเร็วในการเคลื่อนที่ 3%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มค่าป้องกัน ของตัวละคร 15%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มพื้นที่ส่งผลของ ระยะปรากฏกาย 20%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มความเร็วในการฟื้นฟูคูลดาวน์ 12%",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "+5 ค่าคุณสมบัติall types",
+            "color": "#e0861f"
+          },
+          {
+            "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/WorldMapContentSevenSekhemasActive.webp",
+            "label": "เพิ่มค่าประสบการณ์ที่ได้รับ 5% (ลดความเร็วในการเคลื่อนที่ 3% All Elemental Resistances -5% ลดพื้นที่ส่งผลของ ระยะปรากฏกาย 20% ลดค่าคุณสมบัติ 5% ลดค่าป้องกัน ของตัวละคร 15% ลดความเร็วในการฟื้นฟูคูลดาวน์ 12%)",
+            "color": "#e0861f"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Keamah Reservoir",
+        "check": "Holy Water Well",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
+            "label": "สุ่มเงินตราที่ได้",
+            "color": "#8280ff"
+          }
+        ],
+        "leagueRewards": {}
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Interlude 3",
+    "subtitle": "The Open Plains",
+    "note": "",
+    "rows": [
+      {
+        "area": "Scorched Woods",
+        "check": "Ancient Memorial",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp?raw=true",
+            "label": "Uncut Skill Gem (Level 14)",
+            "color": "#ffffff"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Kryar Village",
+        "check": "BOSS - Laithra, the Renegade Spear",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/CrystalSkull_Spirit_02b.webp?raw=true",
+            "label": "Spirit +40",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Howling Cave",
+        "check": "BOSS - เยติต่ำช้า ลิงยักษ์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Kryar Peak",
+        "check": "ผู้เฒ่านาเกลือ มาด็อกซ์",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Armours/Gloves/Uniques/Gravebind.webp?raw=true",
+            "label": "Unique Item Random (เลือกได้ 1 pcs)",
+            "color": "#db8b00"
+          }
+        ],
+        "leagueRewards": {}
+      },
+      {
+        "area": "Return to Kingsmarch",
+        "check": "Complete all Interludes",
+        "rewards": [
+          {
+            "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
+            "label": "2 Weapon Set Passive Skill Points",
+            "color": "#00f028"
+          }
+        ],
+        "leagueRewards": {}
+      }
+    ]
+  }
+]
