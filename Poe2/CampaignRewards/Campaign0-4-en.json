@@ -1747,7 +1747,7 @@
       },
       {
         "area": "Qimah Reservoir",
-        "check": "Holy Water Well",
+        "check": "Sacred Well",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Currency/CurrencyAddModToRare.webp?raw=true",
@@ -1766,7 +1766,7 @@
     "note": "",
     "rows": [
       {
-        "area": "Scorched Woods",
+        "area": "Ashen Forest",
         "check": "Ancient Memorial",
         "rewards": [
           {
@@ -1791,7 +1791,7 @@
       },
       {
         "area": "Howling Caves",
-        "check": "BOSS - เยติต่ำช้า ลิงยักษ์",
+        "check": "The Abominable Yeti",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/QuestItems/Skillbooks/BileSoakedTome.webp?raw=true",
@@ -1803,7 +1803,7 @@
       },
       {
         "area": "Kriar Peaks",
-        "check": "ผู้เฒ่านาเกลือ มาด็อกซ์",
+        "check": "Elder Madox",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Armours/Gloves/Uniques/Gravebind.webp?raw=true",
