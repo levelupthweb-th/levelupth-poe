@@ -1699,7 +1699,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Keamah",
+        "area": "Qimah",
         "check": "The Seven Pillars",
         "rewards": [
           {
@@ -1746,7 +1746,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Keamah Reservoir",
+        "area": "Qimah Reservoir",
         "check": "Holy Water Well",
         "rewards": [
           {
@@ -1778,7 +1778,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Kryar Village",
+        "area": "Kriar Village",
         "check": "BOSS - Laithra, the Renegade Spear",
         "rewards": [
           {
@@ -1790,7 +1790,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Howling Cave",
+        "area": "Howling Caves",
         "check": "BOSS - เยติต่ำช้า ลิงยักษ์",
         "rewards": [
           {
@@ -1802,7 +1802,7 @@
         "leagueRewards": {}
       },
       {
-        "area": "Kryar Peak",
+        "area": "Kriar Peaks",
         "check": "ผู้เฒ่านาเกลือ มาด็อกซ์",
         "rewards": [
           {
