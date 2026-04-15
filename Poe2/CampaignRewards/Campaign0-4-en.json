@@ -1151,7 +1151,7 @@
       },
       {
         "area": "Jiquani's Sanctum",
-        "check": "ซีคัวทัล ผู้พิทักษ์แกนวิญญาณ",
+        "check": "Sekhema, Guardian of the Soul Core",
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/Gems/UncutSkillGem.webp",
@@ -1171,7 +1171,7 @@
         "rewards": [
           {
             "img": "https://raw.githubusercontent.com/levelupthweb-th/levelupth-poe/main/Poe2/Art/2DItems/QuestItems/LipDisk.webp",
-            "label": "แท่น VAAL ไอเทม"
+            "label": "Vaal Item Altar"
           }
         ],
         "leagueRewards": {
