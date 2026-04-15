@@ -624,7 +624,7 @@
       },
       {
         "area": "Halani Gate",
-        "check": "",
+        "check": "BOSS - Jamanna, the Risen King",
         "rewards": [],
         "leagueRewards": {
           "0-4": [
@@ -844,7 +844,7 @@
       },
       {
         "area": "Mastodon Badlands",
-        "check": "Fossilised Memorial",
+        "check": "Shrine of Bones",
         "rewards": [
           {
             "img": "https://github.com/levelupthweb-th/levelupth-poe/blob/main/Poe2/Art/2DItems/Gems/UncutSupportGem.webp?raw=true",
@@ -960,6 +960,22 @@
         },
         "preview": {
           "youtube": "https://www.youtube.com/watch?v=GHjTRjO8Wv8"
+        }
+      },
+      {
+        "area": "Dreadnought Vanguard",
+        "check": "BOSS - Jamanna, the Abomination",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": []
+        }
+      },
+      {
+        "area": "Trial of the Sekhemas",
+        "check": "Trial of Ascendancy",
+        "rewards": [],
+        "leagueRewards": {
+          "0-4": []
         }
       }
     ]
